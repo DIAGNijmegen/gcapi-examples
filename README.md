@@ -1,2 +1,2 @@
 # gc-api
-This repository includes tutorials and example scripts to help you interract with grand-challenge.org via python API.
+This repository includes tutorials and example scripts to help you interact with grand-challenge.org via python API.
