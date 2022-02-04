@@ -1,2 +1,3 @@
-# gc-api
-This repository includes tutorials and example scripts to help you interact with grand-challenge.org via python API.
+# Moved to https://grand-challenge.org/documentation/grand-challenge-api/
+
+All content from this repo has moved to https://grand-challenge.org/documentation/grand-challenge-api/
